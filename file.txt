@@ -1,2 +1,2 @@
 hello world
-git fetch and git pull
+git fetch and git pull :)
